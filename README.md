@@ -11,4 +11,4 @@ eg. for string **acdc** it would be a -> 1, c -> 2, d -> 1
 
 That last tree represents the created encoding. For example, given text **ababacccccc** you should get:
 
-![This is an image](https://github.com/jakubdura/java-task-binary-tree/blob/main/ssTree.jpg)
+![This is an image](https://github.com/jakubdura/java-task-binary-tree/blob/main/treeExample.png)
