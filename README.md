@@ -9,6 +9,6 @@ eg. for string aba it would be a -> 2, b -> 1
 (T1 should become the left sub-tree and T2 the right subtree).
 - [x] Repeat the previous step until there is only 1 tree left.
 
-That last tree represents the created encoding. For example, given text abacaca you should get:
+That last tree represents the created encoding. For example, given text <sub>ababacccccc</sub> you should get:
 
 ![This is an image](https://github.com/jakubdura/java-task-binary-tree/blob/main/ssTree.jpg)
