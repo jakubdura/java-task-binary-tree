@@ -1,4 +1,4 @@
-# java-task-binary-tree
+# Java task binary tree
 
 Task: Encode the alphabet as a binary tree using the frequencies of letters in the given text.
 
