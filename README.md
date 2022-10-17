@@ -3,7 +3,7 @@
 Task: Encode the alphabet as a binary tree using the frequencies of letters in the given text.
 
 - [x] For each character in the text calculate its number of occurrences.
-  <br>eg. for string **acdc** it would be [a -> 1], c -> 2, d -> 1
+  <br>eg. for string **acdc** it would be [a -> 1], [c -> 2], [d -> 1]
 - [x] For each character and its frequency create a one-node tree.
 - [x] Take two trees T1 and T2 with the lowest frequencies and merge them into a larger tree T12
   <br>(T1 should become the left sub-tree and T2 the right subtree).
